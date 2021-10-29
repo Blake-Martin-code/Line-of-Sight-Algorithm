@@ -16,4 +16,7 @@ The algorithms must return a 2D N×N boolean array where:
   The only functions I wrote are the Naive, earlyexit and fast functions.
     These are the 3 main algorithms that actually determine what buildings are in the shade or not.
   0's indicate that the building is in the sun while * indicate the building is in the shade.
+  
+  How to Run:
+    python3 PA1.py (txt file containing heights) (h) (angle) (algorithm, (naive, early, or fast))
 
